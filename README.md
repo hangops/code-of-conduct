@@ -35,7 +35,7 @@ Should you catch yourself behaving disrespectfully, or if someone calls you out 
 
 If the admins determine that someone is behaving disrespectfully, the admins may take any action they deem appropriate within HangOps, up to and including expulsion and exclusion from HangOps.
 
-Admins will seek to resolve conflicts peacefully and in a manner that is positive for the community. The admins can’t foresee every situation, and thus if in the admin's judgment the best thing to do is to ask a disrespectful individual to leave, they will do so.
+Admins will seek to resolve conflicts peacefully and in a manner that is positive for the community. The admins can’t foresee every situation, and thus if in the admin's judgment the best thing to do is remove a disrespectful individual, they will do so.
 
 ### Admins
 
