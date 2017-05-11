@@ -45,6 +45,6 @@ The admins of HangOps as of May 10th, 2017:
 
 ---
 
-Thanks to Rands Leadership Slack for creating and sharing the Code of Conduct on which this one is based. If you question the need for a Code of Conduct, please see this.
+Thanks to [Rands Leadership Slack](http://randsinrepose.com/welcome-to-rands-leadership-slack/) for creating and sharing the [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
 
-This Code of Conduct is released under the CC0 public domain license.
+This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
