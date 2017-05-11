@@ -4,7 +4,7 @@ To continue growing a safe, welcoming, and fair community, all HangOps members a
 
 ## The Short Version
 
-Be respectful of other people; respectfully ask people to stop if you are bothered; and if you can’t resolve an issue contact the admins. If you do not follow our Community Code of Conduct, it will be apparent and you may be removed from HangOps.
+Be respectful of other people; respectfully ask people to stop if you feel disrespected; and if you need help resolving an issue, contact the admins. If you are unable to follow our Community Code of Conduct you will be removed from HangOps.
 
 ## The Long Version
 
