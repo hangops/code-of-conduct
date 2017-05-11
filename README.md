@@ -17,7 +17,7 @@ We value respectful behavior above individual opinions.
 Respectful behavior includes:
 
 * Be considerate, kind, constructive, and helpful.
-* Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
+* Avoid demeaning, discriminatory, harassing, hateful, or threatening behaviors.
 * If you’re not sure, ask someone instead of assuming. No, really. Just ask the admins.
 * Model respectful behaviour, but also address disrespect when you see it. One of the best ways to create a respectful community is to speak up when you see disrespectful behavior—and not just rely on admins to act!
 
