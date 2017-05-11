@@ -1,6 +1,6 @@
 # HangOps Code of Conduct
 
-To continue growing a safe, welcoming, and fair community, all HangOps members are required to comply with the following code of conduct. HangOps admins are responsible for ensuring that all community members follow this code within HangOps spaces.
+To continue growing a safe, welcoming, and fair community, all HangOps members are empowered to call out and attempt to resolve disrespectful behavior, and admins are empowered to enforce the code of conduct.
 
 ## The Short Version
 
