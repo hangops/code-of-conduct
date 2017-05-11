@@ -10,7 +10,7 @@ Be respectful of other people; respectfully call out anyone behaving inappropria
 
 ### Respect
 
-HangOps is a community of people who care about running production systems reliably. We have diverse backgrounds, skills, talents, experiences, cultures, and opinions. We are an inclusive environment and we treat all individuals respectfully.
+HangOps is a community of people who care about running production systems reliably. We have diverse backgrounds, skills, talents, experiences, cultures, and opinions. We are an inclusive environment, and we treat all individuals respectfully.
 
 We value respectful behavior above individual opinions.
 
