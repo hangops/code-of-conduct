@@ -1,10 +1,10 @@
 # HangOps Code of Conduct
 
-To continue growing a safe, welcoming, and fair community, all HangOps members are empowered to call out and attempt to resolve disrespectful behavior, and admins are empowered to enforce the code of conduct.
+To continue growing a safe, welcoming, and fair community, all HangOps members are empowered to call out and attempt to resolve disrespectful behavior, and admins are empowered to enforce the Code of Conduct.
 
 ## The Short Version
 
-Be respectful of other people; respectfully ask people to stop if you feel disrespected; and if you need help resolving an issue, contact the admins. If you are unable to follow our Community Code of Conduct you will be removed from HangOps.
+Be respectful of other people; respectfully call out anyone behaving inappropriately, ask them to stop, and direct them to this Code of Conduct; and if you need help resolving an issue, contact the admins. If you are unable to follow our Community Code of Conduct you will be removed from HangOps.
 
 ## The Long Version
 
