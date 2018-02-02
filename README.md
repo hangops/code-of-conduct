@@ -34,12 +34,13 @@ Admins will seek to resolve conflicts peacefully and in a manner that is positiv
 
 ### Admins
 
-The admins of HangOps as of May 25th, 2017:
+The admins of HangOps as of February 2nd, 2018:
 
 * Brandon Burton
 * Jake Champlin
 * Ceren Ercen
 * Adam Ochonicki
+* Don ONeill
 * Chris Webber
 
 ---
