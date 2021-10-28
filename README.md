@@ -38,6 +38,7 @@ The admins of HangOps as of June 18, 2018:
 
 * @ceren (Ceren Ercen)
 * @cwebber (Chris Webber)
+* @jtimberman (Joshua Timberman)
 * @mook (Mark Carey)
 * @ocho (Adam Ochonicki)
 * @sntxrr (Don O'Neill)
