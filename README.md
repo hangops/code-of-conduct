@@ -34,7 +34,7 @@ Admins will seek to resolve conflicts peacefully and in a manner that is positiv
 
 ### Admins
 
-The admins of HangOps as of June 18, 2018:
+The admins of HangOps as of October 22, 2021:
 
 * @ceren (Ceren Ercen)
 * @cwebber (Chris Webber)
