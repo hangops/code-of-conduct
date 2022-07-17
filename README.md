@@ -10,6 +10,7 @@ Be respectful of other people; respectfully call out anyone behaving inappropria
 
 HangOps is a community of people who care about running production systems reliably. We have diverse backgrounds, skills, talents, experiences, cultures, and opinions. We are an inclusive environment, and we treat all individuals respectfully. We have a large number of conversational topics - requests to shift a conversation to appropriate channels will frequently happen, and should be easily respected.
 
+* Please don't join to immediately drop links or promotions. They will be rejected and deleted. 
 * We value respectful behavior above individual opinions.
 * Be considerate, kind, constructive, and helpful.
 * Avoid demeaning, discriminatory, harassing, hateful, or threatening behaviors.
