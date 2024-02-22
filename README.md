@@ -4,7 +4,7 @@ To continue growing a safe, welcoming, and fair community, all HangOps members a
 
 ## The Short Version
 
-Be respectful of other people; respectfully call out anyone behaving inappropriately, ask them to stop, and direct them to this Code of Conduct; if you need help resolving an issue, contact the admins. If you are unable to follow our Community Code of Conduct you will be removed from HangOps.
+Be respectful of other people; respectfully call out anyone behaving inappropriately, ask them to stop, and direct them to this Code of Conduct; if you need help resolving an issue, contact the admins. If you are unable to follow our Community Code of Conduct you will be removed from HangOps. Targeted misgendering, deadnaming, or promotion of so-called "conversion therapy" is prohibited.
 
 ## The Long Version
 
@@ -16,6 +16,12 @@ HangOps is a community of people who care about running production systems relia
 * Avoid demeaning, discriminatory, harassing, hateful, or threatening behaviors.
 * If you’re not sure, ask someone instead of assuming. No, really. Just ask the admins.
 * Model respectful behaviour, but also address harmful behavior when you see it. One of the best ways to create a respectful community is to speak up when you see harmful behavior—and not just rely on admins to act!
+
+Misgendering, the act of referring to someone using a gender or pronouns that do not correctly reflect their gender identity, is prohibited. Deliberate or targeted misgendering, where there is an intentional refusal to respect an individual's self-identified gender and pronouns, is considered a form of harassment and discrimination. 
+
+Deadnaming, which involves referring to a transgender or gender-diverse person by a name they used before their gender transition, is prohibited.
+
+The promotion or endorsement of so-called "conversion therapy" or any related programs or practices is prohibited. Conversion therapy, which aims to change an individual’s sexual orientation or gender identity, is a discredited practice that is harmful and disrespectful to the LGBTQ+ community.
 
 ### Resolve Peacefully
 
@@ -35,7 +41,7 @@ Admins will seek to resolve conflicts peacefully and in a manner that is positiv
 
 ### Admins
 
-The admins of HangOps as of October 22, 2021:
+The admins of HangOps as of February 12, 2024:
 
 * @ceren (Ceren Ercen)
 * @cwebber (Chris Webber)
